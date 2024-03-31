@@ -55,7 +55,7 @@ OPENAI_API_KEY=
 
 ## Run Locally
 
-Clone the project
+### Clone the project
 
 ```bash
   git clone https://github.com/shivam-i/ChatGPT-Clone.git

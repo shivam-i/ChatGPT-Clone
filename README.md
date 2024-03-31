@@ -6,9 +6,7 @@ This project is clone of ChatGPT, ChatGPT is a AI chatbot. It's allows you to ha
 ## Features
 
 - Password login
-- Chat 
-- Auto chat save
-- History Save
+- Chat
 - Account delete option
 - Light & Dark mode
 - Responsive Design

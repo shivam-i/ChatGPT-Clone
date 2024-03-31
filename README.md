@@ -39,7 +39,7 @@ Make sure you have installed all of the following prerequisites on your developm
 
 ## Environment Variables
 
-To run this project, you will need to add the following environment variables to your .env file in server directory
+To run this project, you will need to add the following environment variables to your `.env` file in server directory
 
 ```
 PORT=5000
@@ -61,7 +61,7 @@ Clone the project
   git clone https://github.com/shivam-i/ChatGPT-Clone.git
 ```
 
-### To Start BackEnd
+### To run the Back-end
 
 - Go to the server directory
 
@@ -81,21 +81,21 @@ Clone the project
   npm start
 ```
 
-##To Start FrontEnd
+### To run the Front-end
 
-Go to the client directory
+- Go to the client directory
 
 ```bash
   cd ChatGPT/client
 ```
 
-Install dependencies
+- Install dependencies
 
 ```bash
   npm install
 ```
 
-Start
+- Start
 
 ```bash
   npm run dev

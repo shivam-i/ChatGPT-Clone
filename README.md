@@ -25,34 +25,33 @@ Make sure you have installed all of the following prerequisites on your developm
 
 ## Technology Used
 
-# Front-end
-# vite # reactjs # scss #r edux-toolkit
+### Front-end
+ - Vite
+ - React.JS
+ - SCSS
+ - Redux-Toolkit [For state management]
+ - JWT [For authentication]
 
-# nodejs #expressjs #mongodb #jsonwebtoken authentication 
-
-#javascript
-
-#openai #chatgpt
+### Back-end
+  - Node.JS
+  - Express.JS
+  - MongoDB
 
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file in server directory
 
-`PORT` = `5000`
+```
+PORT=5000
 
-`MONGO_URL`
+MONGO_URL=
 
-`SITE_URL`
+SITE_URL=
 
-`JWT_PRIVATE_KEY`
+JWT_PRIVATE_KEY=
 
-`OPENAI_API_KEY`
-
-`OPENAI_ORGANIZATION`
-
-`MAIL_EMAIL`
-
-`MAIL_SECRET`
+OPENAI_API_KEY=
+```
 
 To run this project, you will need to add the following environment variables to your .env.local file in client directory
 

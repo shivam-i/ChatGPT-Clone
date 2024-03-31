@@ -1,15 +1,11 @@
 # ChatGPT
-This clone is made with MERN and uses OpenAI API.
+This clone is made with MERN stack.
 
 This project is clone of chatGPT , chatGPT is an AI . It's allows you to have human-like conversations.
 
 ## Features
 
-- PWA
-- Offline
 - Password login
-- Forgot password
-- Google login & signup
 - Chat 
 - Auto chat save
 - History Save
@@ -19,7 +15,7 @@ This project is clone of chatGPT , chatGPT is an AI . It's allows you to have hu
 
 ## Prerequisites
 
-- get your api key from https://openai.com/api/
+- Get your api key from https://openai.com/api/ [Optional]
 
 Make sure you have installed all of the following prerequisites on your development machine:
 
@@ -29,9 +25,10 @@ Make sure you have installed all of the following prerequisites on your developm
 
 ## Technology Used
 
-#vite #reactjs #scss #redux-toolkit
+# Front-end
+# vite # reactjs # scss #r edux-toolkit
 
-#nodejs #expressjs #mongodb #jsonwebtoken authentication 
+# nodejs #expressjs #mongodb #jsonwebtoken authentication 
 
 #javascript
 

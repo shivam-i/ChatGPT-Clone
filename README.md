@@ -1,7 +1,7 @@
 # ChatGPT
 This clone is made with MERN stack.
 
-This project is clone of chatGPT , chatGPT is an AI . It's allows you to have human-like conversations.
+This project is clone of ChatGPT, ChatGPT is a AI chatbot. It's allows you to have human-like conversations.
 
 ## Features
 
